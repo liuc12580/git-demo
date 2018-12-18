@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6456a43c-9b0c-4901-a0d2-bceb0994c737" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="6456a43c-9b0c-4901-a0d2-bceb0994c737" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> git1219
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +22,11 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jk/User.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="124">
+<<<<<<< HEAD
               <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+=======
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+>>>>>>> git1219
             </state>
           </provider>
         </entry>
@@ -129,12 +139,20 @@
       <updated>1545148761705</updated>
       <workItem from="1545148765926" duration="2393000" />
       <workItem from="1545151192162" duration="236000" />
+<<<<<<< HEAD
       <workItem from="1545152110036" duration="519000" />
+=======
+      <workItem from="1545152110036" duration="263000" />
+>>>>>>> git1219
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3151000" />
+=======
+    <option name="totallyTimeSpent" value="2895000" />
+>>>>>>> git1219
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -189,7 +207,11 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jk/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
+<<<<<<< HEAD
           <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+=======
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+>>>>>>> git1219
         </state>
       </provider>
     </entry>
